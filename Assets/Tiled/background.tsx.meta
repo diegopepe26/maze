@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 9e92cba40e9bd424ba5a38893314a5d4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles:
+  - ../PC-Anatomy-main/Assets/Gif/Super_Retro_Collection/Resources/Environments/legacy_atlas.png
+  errors:
+  - 'Missing texture asset: ../PC-Anatomy-main/Assets/Gif/Super_Retro_Collection/Resources/Environments/legacy_atlas.png'
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 13
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048
